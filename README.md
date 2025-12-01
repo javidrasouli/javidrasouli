@@ -38,13 +38,10 @@
 - Advanced Go patterns for high-throughput services and background job orchestration.
 - Practical ways to fold AI-assisted tooling into daily review and debugging loops.
 
-## 📊 Activity & Languages
-<div align="center">
-  <a href="https://github.com/javidrasouli">
-    <img height="180em" width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=javidrasouli&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-    <img height="180em" width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=javidrasouli&layout=compact&langs_count=12&theme=shades-of-purple&hide=css,html" alt="Top languages"/>
-  </a>
-</div>
+## GitHub Highlights
+- 11 public repositories with 7 followers since joining GitHub in 2020.
+- Ongoing Go-focused work on `namic_update_mande`, algorithm practice in `top-interview-150`, and payment integrations via `paygap`.
+- Contributed to security-conscious platforms such as `Rocket.Chat` and maintain the `go-algorithm` toolkit (⭐️1).
 
 ## Let's Connect
 - Email: [javid99.rasouli@gmail.com](mailto:javid99.rasouli@gmail.com)
