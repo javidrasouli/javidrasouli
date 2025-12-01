@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Javid%20Rasouli&fontAlign=50&fontAlignY=35&fontSize=40&desc=Full-stack%20Engineer%20%7C%20Go%20%26%20Vue&descAlign=50&descAlignY=60" alt="Hero banner" />
-  <p><b>Golang • Vue.js • Secure, scalable systems</b></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Javid%20Rasouli&fontAlign=50&fontAlignY=35&fontSize=40&desc=Full-stack%20Engineer%20%7C%20Go%20%26%20Systems&descAlign=50&descAlignY=60" alt="Hero banner" />
+  <p><b>Golang • Distributed systems • Secure, scalable delivery</b></p>
   <p>
     <a href="https://linkedin.com/in/javid-rasouli-9610961aa">LinkedIn</a> ·
     <a href="mailto:javid99.rasouli@gmail.com">Gmail</a> ·
@@ -11,20 +11,18 @@
 ---
 
 ## TL;DR
-- Full-stack engineer with a Golang backend core and a Vue/Nuxt front-end toolkit.
+- Full-stack engineer with a Golang backend core and platform automation focus.
 - Background in .NET, now focused on resilient distributed services and security-minded delivery.
 - Comfortable jumping between product discovery, architecture, and hands-on implementation.
 
 ## What I Do
 - Design and build event-driven APIs, message broker workflows, and integration surfaces.
-- Craft performant web apps with Vue, Nuxt, Quasar, and Tailwind that stay maintainable over time.
 - Harden systems through tracing, observability, and proactive vulnerability hunting.
 - Coach teams on delivery practices—clean CI/CD, automated testing, and pragmatic documentation.
 
 ## Toolbox
 | Layer | Highlights |
 | --- | --- |
-| Front-end | JavaScript, TypeScript, Vue.js, Nuxt.js, Quasar, Tailwind CSS, HTML/CSS |
 | Back-end | Golang, Gin, Node.js, Express, message brokers, REST/GraphQL |
 | Data & Cache | MongoDB, PostgreSQL, Neo4j, Redis, Elastic, memdb |
 | Platform | Linux, Docker, Kubernetes, GitHub Actions, CI/CD pipelines |
@@ -38,7 +36,6 @@
 
 ## Currently Exploring
 - Advanced Go patterns for high-throughput services and background job orchestration.
-- Vue/Nuxt performance profiling to keep interactivity snappy on modest hardware.
 - Practical ways to fold AI-assisted tooling into daily review and debugging loops.
 
 ## 📊 Activity & Languages
@@ -52,7 +49,7 @@
 ## Let's Connect
 - Email: [javid99.rasouli@gmail.com](mailto:javid99.rasouli@gmail.com)
 - LinkedIn: [linkedin.com/in/javid-rasouli-9610961aa](https://linkedin.com/in/javid-rasouli-9610961aa)
-- Open to chatting about Golang, Vue, security, and collaborative performance engineering.
+- Open to chatting about Golang, security, and collaborative performance engineering.
 
 ---
 
